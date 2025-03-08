@@ -5,23 +5,23 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/biuwuLOK/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/biuwuLOK/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/actions">
+      <img alt="Tests Passing" src="https://github.com/biuwuLOK/github-readme-stats-copy/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/biuwuLOK/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/biuwuLOK/github-readme-stats" />
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/biuwuLOK/github-readme-stats-copy" />
     </a>
-    <a href="https://codecov.io/gh/biuwuLOK/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/biuwuLOK/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/biuwuLOK/github-readme-stats-copy">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/biuwuLOK/github-readme-stats-copy/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/biuwuLOK/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/biuwuLOK/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/biuwuLOK/github-readme-stats-copy?color=0088ff" />
     </a>
-    <a href="https://github.com/biuwuLOK/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/biuwuLOK/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/biuwuLOK/github-readme-stats-copy?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/biuwuLOK/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/biuwuLOK/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/biuwuLOK/github-readme-stats-copy">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/biuwuLOK/github-readme-stats-copy/badge" />
     </a>
     <br />
     <br />
@@ -30,9 +30,9 @@
   <p align="center">
     <a href="#alle-beispiele">Beispiele ansehen</a>
     ·
-    <a href="https://github.com/biuwuLOK/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Fehler melden</a>
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Fehler melden</a>
     ·
-    <a href="https://github.com/biuwuLOK/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Funktion wünschen</a>
+    <a href="https://github.com/biuwuLOK/github-readme-stats-copy/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Funktion wünschen</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -88,7 +88,7 @@ Kopiere folgendes in deine Readme um die Statistiken zu benutzen.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 _Hinweis: Die Berechnung des Ranges basiert auf den jeweiligen Benutzerstatistiken, siehe [src/calculateRank.js](../src/calculateRank.js)_
@@ -208,16 +208,16 @@ Den Wert des URL-Parameters `?repo=` musst du so anpassen, dass dort der Namen d
 Endpunkt: `api/pin?username=biuwuLOK&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats)](https://github.com/biuwuLOK/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 ### Beispiele
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats)](https://github.com/biuwuLOK/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 Benutze die [show_owner](#anpassungenpersonalisierung) Variable, um den Nutzernamen des Repository-Eigentümers anzuzeigen.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats&show_owner=true)](https://github.com/biuwuLOK/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats&show_owner=true)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 # Top Programmiersprachen-Karte
 
@@ -233,7 +233,7 @@ Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutz
 Endpunkt: `api/top-langs?username=biuwuLOK`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 ### Verbirg einzelne Sprachen
@@ -241,7 +241,7 @@ Endpunkt: `api/top-langs?username=biuwuLOK`
 Du kannst den `?hide=language1,language2` URL-Parameter benutzen, um einzelne Sprachen auszublenden.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&hide=javascript,html)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&hide=javascript,html)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 ### Kompaktes Sprachen-Karte Layout
@@ -249,34 +249,34 @@ Du kannst den `?hide=language1,language2` URL-Parameter benutzen, um einzelne Sp
 Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&layout=compact)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&layout=compact)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 ### Beispiel
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 - Kompaktes Layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&layout=compact)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK&layout=compact)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 # WakaTime Wochen-Statistik
 
 Ändere `?username=` in den eigenen [WakaTime](https://wakatime.com)-Benutzernamen.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/biuwuLOK/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 ### Beispiel
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/biuwuLOK/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/biuwuLOK/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 - Kompaktes Layout
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/biuwuLOK/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 ---
 
@@ -318,7 +318,7 @@ Wähle Eines von den [Standard-Themes](#themes)
 
 - Top Programmiersprachen
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 
 ---
 
@@ -327,7 +327,7 @@ Wähle Eines von den [Standard-Themes](#themes)
 Üblicherweise ist es in `.md`-Dateien nicht möglich Bilder nebeneinander anzuzeigen. Um dies zu ermöglichen, kannst du folgendes tun:
 
 ```html
-<a href="https://github.com/biuwuLOK/github-readme-stats">
+<a href="https://github.com/biuwuLOK/github-readme-stats-copy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/biuwuLOK/convoychat">
@@ -342,9 +342,9 @@ Wähle Eines von den [Standard-Themes](#themes)
 Da die GitHub API nur 5 Tsd. Aufrufe pro Stunde zulässt, kann es passieren, dass meine `https://github-readme-stats.vercel.app/api` dieses Limit erreicht.
 Wenn du es auf deinem eigenen Vercel-Server hostest, brauchst du dich darum nicht zu kümmern. Klicke auf den Deploy-Knopf um loszulegen!
 
-Hinweis: Seit [#58](https://github.com/biuwuLOK/github-readme-stats/pull/58) sollte es möglich sein, mehr als 5 Tsd Aufrufe pro Stunde ohne Downtimes zu verkraften :D
+Hinweis: Seit [#58](https://github.com/biuwuLOK/github-readme-stats-copy/pull/58) sollte es möglich sein, mehr als 5 Tsd Aufrufe pro Stunde ohne Downtimes zu verkraften :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/biuwuLOK/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/biuwuLOK/github-readme-stats-copy)
 
 <details>
  <summary><b>Anleitung zum Einrichten von Vercel 🔨 </b></summary>

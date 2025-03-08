@@ -28,7 +28,7 @@ permissions:
 
 jobs:
   closeOldThemePrs:
-    if: github.repository == 'biuwuLOK/github-readme-stats'
+    if: github.repository == 'biuwuLOK/github-readme-stats-copy'
     name: Close stale 'invalid' theme PRs
     runs-on: ubuntu-latest
     strategy:

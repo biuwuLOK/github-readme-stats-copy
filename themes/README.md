@@ -229,6 +229,6 @@ Use `?theme=THEME_NAME` parameter like so:
 [ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=biuwuLOK&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
 
 
-[add-theme]: https://github.com/biuwuLOK/github-readme-stats/edit/master/themes/index.js
+[add-theme]: https://github.com/biuwuLOK/github-readme-stats-copy/edit/master/themes/index.js
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D

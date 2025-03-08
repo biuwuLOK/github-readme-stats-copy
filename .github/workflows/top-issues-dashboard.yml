@@ -29,7 +29,7 @@ permissions:
 
 jobs:
   showAndLabelTopIssues:
-    if: github.repository == 'biuwuLOK/github-readme-stats'
+    if: github.repository == 'biuwuLOK/github-readme-stats-copy'
     name: Update top issues Dashboard.
     runs-on: ubuntu-latest
     steps:
