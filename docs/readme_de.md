@@ -88,7 +88,7 @@ Kopiere folgendes in deine Readme um die Statistiken zu benutzen.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
+[![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 _Hinweis: Die Berechnung des Ranges basiert auf den jeweiligen Benutzerstatistiken, siehe [src/calculateRank.js](../src/calculateRank.js)_
@@ -100,7 +100,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 > Optionen: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["contribs","prs"])
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["contribs","prs"])
 ```
 
 ### Symbole anzeigen
@@ -108,7 +108,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 Um Symbole anzuzeigen kann der URL-Parameter `show_icons=true` wie folgt verwendet werden:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
 ```
 
 ### Erscheinungsbild/Themes
@@ -118,7 +118,7 @@ Mithilfe der eingebauten Themes kann das Aussehen der Karten verändern werden, 
 Benutze den `?theme=THEME_NAME`-Parameter wie folgt :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 ```
 
 #### Alle eingebauten Themes :-
@@ -284,33 +284,33 @@ Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
 
 - Ausblenden bestimmter Statistiken
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["contribs","issues"])
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["contribs","issues"])
 
 - Symbole anzeigen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["issues"]&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=["issues"]&show_icons=true)
 
 - Alle Beiträge anzeigen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
 
 - Erscheinungsbild/Themes
 
 Wähle Eines von den [Standard-Themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 
 - Farbverlauf
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Statistiken-Karte anpassen
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Repo-Karte(Extra-Pin) anpassen
 

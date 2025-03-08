@@ -91,7 +91,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi GitHub kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
+[![Biuwu'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -316,37 +316,37 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&locale=es)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&locale=es)
 
 - Repo kartı düzenleyin
 

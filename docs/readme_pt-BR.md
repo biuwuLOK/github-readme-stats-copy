@@ -89,7 +89,7 @@ Copie e cole isso no seu conteúdo de remarcação e é isso. Simples!
 Mude o valor de `?username=` para o seu nome de usuário no GitHub.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
+[![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 _Nota: As classificações são baseadas nas estatísticas do usuário, veja [src/calculateRank.js](../src/calculateRank.js)_
@@ -101,7 +101,7 @@ Para ocultar estatísticas individualmente, você pode passar um parâmetro de c
 > Opções: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,prs)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,prs)
 ```
 
 ### Adicionando contagem de contribuições privadas à contagem total de commits
@@ -113,7 +113,7 @@ _Nota: Se você estiver implantando este projeto, as contribuições privadas se
 > Opções: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&count_private=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&count_private=true)
 ```
 
 ### Exibindo ícones
@@ -121,7 +121,7 @@ _Nota: Se você estiver implantando este projeto, as contribuições privadas se
 Para habilitar ícones, basta utilizar o parâmetro `show_icons=true` na sua requisição, da seguinte forma:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
 ```
 
 ### Temas
@@ -131,7 +131,7 @@ Com temas predefinidos, pode personalizar a aparência dos cartões sem precisar
 Utilize o parâmetro `?theme=THEME_NAME`, da seguinte forma:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 ```
 
 #### Todos os temas predefinidos :
@@ -272,29 +272,29 @@ Altere o valor de `?username=` para o seu username do WakaTime.
 
 - Padronizado
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
 
 - Ocultando estatísticas específicas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
 
 - Mostrando ícones
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
 
 - Incluir todos os commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
 
 - Temas
 
 Escolha entre um dos [temas predefinidos](#temas)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 
 - Personalizando o cartão de estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Customizando o cartão de repositório
 

@@ -92,7 +92,7 @@
 `?username=` 속성의 값을 GitHub 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
+[![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK)](https://github.com/biuwuLOK/github-readme-stats-copy)
 ```
 
 _참고:_
@@ -111,7 +111,7 @@ _[src/calculateRank.js](../src/calculateRank.js) 에서 수행되는 계산 작�
 > 사용 가능한 항목들: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,prs)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,prs)
 ```
 
 ### 총 커밋 수에 비공개 기여도 (private contribs) 수 추가하기
@@ -123,7 +123,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 > 예시: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&count_private=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&count_private=true)
 ```
 
 ### 아이콘 표시하기
@@ -131,7 +131,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 아이콘 항목을 활성화 하기 위해선, 다음과 같이 `show_icons=true` 속성을 추가해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true)
 ```
 
 ### 테마 설정하기
@@ -141,7 +141,7 @@ _참고: 프로젝트를 직접 배포하신 경우, 비공개 기여도는 기�
 다음과 같이 `?theme=THEME_NAME` 속성을 이용해주세요.
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 ```
 
 #### 지원하는 내장 테마 목록
@@ -332,41 +332,41 @@ _참고:
 
 - 기본
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK)
 
 - 특정 통계 내용 숨김
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=contribs,issues)
 
 - 아이콘 표시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&hide=issues&show_icons=true)
 
 - 전체 커밋 포함 시
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&include_all_commits=true)
 
 - 테마들
 
 [내장 테마](#themes) 에서 직접 선택해보세요
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&show_icons=true&theme=radical)
 
 - 그라데이션 주기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=biuwuLOK&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - 통계 카드 커스터마이징하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용 지역 설정하기
 
-![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&locale=kr)
+![Biuwu 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=biuwuLOK&locale=kr)
 
 - 저장소 핀 커스터마이징하기
 
-![Anurag 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=biuwuLOK&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Biuwu 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=biuwuLOK&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용량 통계
 
